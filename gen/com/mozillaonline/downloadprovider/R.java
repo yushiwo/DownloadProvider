@@ -23,21 +23,22 @@ public final class R {
         public static final int ic_menu_desk_clock=0x7f020002;
     }
     public static final class id {
-        public static final int appIcon=0x7f090010;
+        public static final int appIcon=0x7f090011;
         public static final int date_ordered_list=0x7f090000;
-        public static final int description=0x7f090013;
+        public static final int description=0x7f090014;
         public static final int deselect_all=0x7f090005;
         public static final int download_checkbox=0x7f090006;
         public static final int download_icon=0x7f090007;
-        public static final int download_menu_sort_by_date=0x7f090017;
-        public static final int download_menu_sort_by_size=0x7f090016;
+        public static final int download_menu_sort_by_date=0x7f090018;
+        public static final int download_menu_sort_by_size=0x7f090017;
         public static final int download_progress=0x7f090009;
+        public static final int download_single=0x7f090010;
         public static final int download_title=0x7f090008;
         public static final int empty=0x7f090002;
         public static final int last_modified_date=0x7f09000a;
-        public static final int paused_text=0x7f090015;
-        public static final int progress_bar=0x7f090014;
-        public static final int progress_text=0x7f090011;
+        public static final int paused_text=0x7f090016;
+        public static final int progress_bar=0x7f090015;
+        public static final int progress_text=0x7f090012;
         public static final int selection_delete=0x7f090004;
         public static final int selection_menu=0x7f090003;
         public static final int show_download_list_button=0x7f09000f;
@@ -45,7 +46,7 @@ public final class R {
         public static final int size_text=0x7f09000c;
         public static final int start_download_button=0x7f09000e;
         public static final int status_text=0x7f09000b;
-        public static final int title=0x7f090012;
+        public static final int title=0x7f090013;
         public static final int url_input_edittext=0x7f09000d;
     }
     public static final class layout {
