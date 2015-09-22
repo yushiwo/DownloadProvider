@@ -67,7 +67,7 @@ public class DownloadProviderActivity extends Activity implements
 	mStartDownloadButton.setOnClickListener(this);
 	mShowDownloadListButton.setOnClickListener(this);
 
-	mUrlInputEditText.setText("http://down.mumayi.com/41052/mbaidu");
+	mUrlInputEditText.setText("http://v.cctv.com/flash/mp4video28/TMS/2013/05/06/265114d5f2e641278098503f1676d017_h264418000nero_aac32-1.mp4");
     }
 
     private void startDownloadService() {
